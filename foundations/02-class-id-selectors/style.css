@@ -1,18 +1,15 @@
-html {
-    font-family: Helvetica, Arial, sans-serif;
-}
-
-#one {
+#two {
     color: blue;
 }
 
 #four {
     background-color: lightgreen;
-    font-weight: bolder;
+    font-weight: bold;
 }
 
-.one, .three, .five {
+.odd {
     background-color: lightpink;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
 .average-font {
@@ -20,9 +17,5 @@ html {
 }
 
 .big-font {
-    font-size: 32px;
-}
-
-.biggest-font {
-    font-size: 56px;
+    font-size: 36px;
 }

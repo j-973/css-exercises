@@ -1,0 +1,28 @@
+html {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#one {
+    color: blue;
+}
+
+#four {
+    background-color: lightgreen;
+    font-weight: bolder;
+}
+
+.one, .three, .five {
+    background-color: lightpink;
+}
+
+.average-font {
+    font-size: 24px;
+}
+
+.big-font {
+    font-size: 32px;
+}
+
+.biggest-font {
+    font-size: 56px;
+}

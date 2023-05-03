@@ -48,12 +48,15 @@
 }
 
 .sidebar {
+  display: grid;
   grid-area: sidebar;
   background-color: #FF7755;
   gap: 50px;
 }
 
 .sidebar .photo {
+  display: grid;
+  align-items: center;
   background-color: white;
   color: black;
   font-size: 12px;
@@ -64,6 +67,7 @@
 
 .sidebar .side-content {
   display: grid;
+  align-items: center;
   background-color: white;
   color: black;
   font-size: 16px;
